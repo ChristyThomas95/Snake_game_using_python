@@ -1,4 +1,4 @@
-Snake
+# Snake
 
 This is the replicate version of the famous Snake game we used to play in our childhoods. The idea in this program is from a video i saw while learning python. i have added some new elements like Audio and a graphical snake using pygame in python.  
 
