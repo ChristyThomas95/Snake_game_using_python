@@ -22,3 +22,8 @@ Write this on your terminal - "pip install pygame"
 
 ![App Screenshot](https://github.com/ChristyThomas95/Snake_game_using_python/blob/master/Screenshot/Animation.gif)
 
+## Contributing
+
+Contributions are always welcome!
+
+
