@@ -12,7 +12,7 @@ This is the replicate version of the famous Snake game we used to play in our ch
 
 You have have install Pygame inorder to run or work on this project
 
-Write this on your terminal - "pip install pygame"
+Write this on your terminal - `pip install pygame`
     
 ## Screenshots / Demo
 
